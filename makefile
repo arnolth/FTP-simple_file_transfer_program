@@ -4,5 +4,5 @@ server:
 	gcc ftserver.c -o ftserver
 
 client: 
-	chmod +x ftclient
+	chmod +x ftclient.py
 
